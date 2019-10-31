@@ -47,7 +47,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
     <!--<mailingListUrl></mailingListUrl>-->
     <!--<bugTrackerUrl></bugTrackerUrl>-->
-    <tags>git-interactive-rebase-tool SPACE_SEPARATED</tags>
+    <tags>git-interactive-rebase-tool git</tags>
     <summary>git-interactive-rebase-tool</summary>
     <description>Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
