@@ -35,7 +35,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
     <title>git-interactive-rebase-tool (Install)</title>
-    <authors>MitMaro</authors>
+    <authors>Rustin</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://gitrebasetool.mitmaro.ca/</projectUrl>
     <!--<iconUrl>http://cdn.rawgit.com/__REPLACE_YOUR_REPO__/master/icons/git-interactive-rebase-tool.png</iconUrl>-->
@@ -43,10 +43,10 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!-- If there is a license Url available, it is required for the community feed -->
     <!-- <licenseUrl>Software License Location __REMOVE_OR_FILL_OUT__</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>-->
-    <!--<projectSourceUrl>Software Source Location - is the software FOSS somewhere? Link to it with this</projectSourceUrl>-->
-    <!--<docsUrl>At what url are the software docs located?</docsUrl>-->
-    <!--<mailingListUrl></mailingListUrl>-->
-    <!--<bugTrackerUrl></bugTrackerUrl>-->
+    <projectSourceUrl>https://github.com/MitMaro/git-interactive-rebase-tool</projectSourceUrl>
+    <docsUrl>https://github.com/MitMaro/git-interactive-rebase-tool/blob/master/README.md</docsUrl>
+    <mailingListUrl>rustin.liu@gmail.com</mailingListUrl>
+    <bugTrackerUrl>https://github.com/MitMaro/git-interactive-rebase-tool/issues</bugTrackerUrl>
     <tags>git-interactive-rebase-tool git</tags>
     <summary>git-interactive-rebase-tool</summary>
     <description>Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.</description>
